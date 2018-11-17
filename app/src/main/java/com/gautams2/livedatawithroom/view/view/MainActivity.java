@@ -27,6 +27,5 @@ public class MainActivity extends AppCompatActivity {
         viewModel.getAllUser(this);
     }
 
-    void
 
 }
